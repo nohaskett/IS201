@@ -1,0 +1,19 @@
+p{
+    font-size: 18pt
+}
+
+.italicfont {
+    font-style: italic
+}
+.boldfont {
+    font-weight: bold
+}
+.notbold {
+    font-weight: normal
+}
+.smallerfont {
+    font-size: 16pt
+}
+.evensmallerfont {
+    font-size: 13pt
+}
